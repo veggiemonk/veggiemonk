@@ -1,4 +1,4 @@
-### Hi there 👋
+![https://metrics.lecoq.io/veggiemonk](https://metrics.lecoq.io/veggiemonk)
 
 <!--
 **veggiemonk/veggiemonk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
