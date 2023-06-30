@@ -1,4 +1,6 @@
-![https://metrics.lecoq.io/veggiemonk](https://metrics.lecoq.io/veggiemonk)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=veggiemonk&theme=calm)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=veggiemonk&theme=calm)
 
 <!--
 **veggiemonk/veggiemonk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
