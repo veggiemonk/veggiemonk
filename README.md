@@ -1,6 +1,9 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=veggiemonk&theme=calm)
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=veggiemonk&theme=calm"></img>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=veggiemonk&theme=calm"></img>
+</p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=veggiemonk&theme=calm)
+
 
 <!--
 **veggiemonk/veggiemonk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
